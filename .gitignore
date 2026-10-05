@@ -1,0 +1,31 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+config.json
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Runtime
+runtime/
+
+# Node
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Electron
+electron/backend/
